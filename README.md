@@ -7,7 +7,7 @@
 <a href="https://www.virustotal.com/gui/file/b366bbd8fbd43d42e50ae2e78a1f1fd071c6631cfb657d83a036b6960d5f3796" target="_blank">VirusTotal.jar</a>
 </p>
 <p align="center">
-  <img src="https://i.ibb.co/SnF7wgd/ATN.png" alt="AddTwoNumbers" border="0">
+  <img src="https://i.postimg.cc/hvJdjPTj/ATN.png" alt="AddTwoNumbers" border="0">
 </p>
 <h3 align="center">Discord: luckytsb</h3>
 
@@ -29,5 +29,5 @@
 2. В правое поле вводится число 2.
 3. Нажимается кнопка "Посчитать".
 4. Открывается окно с результатом сложения двух чисел.
-   <img align="center" src="https://i.ibb.co/QJDZRMk/result.png" alt="Result" border="0">
+   <img src="https://i.ibb.co/QJDZRMk/result.png" alt="Result" border="0">
 5. Программа закрывается на крестик.
