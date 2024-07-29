@@ -13,7 +13,7 @@ public class ATN extends JFrame {
     private JPanel panel;
 
     public ATN() {
-        setTitle("Сумма");
+        setTitle("ATN");
         setSize(400, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
