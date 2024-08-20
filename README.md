@@ -33,3 +33,7 @@
    <img src="https://i.ibb.co/QJDZRMk/result.png" alt="Result" border="0">
    
 5. Программа закрывается на крестик.
+
+## Лицензия
+
+Этот код лицензирован под [Special LICENSE](LICENSE.MD).
